@@ -1,6 +1,6 @@
 from flask import Flask, make_response, jsonify
 from flask_cors import CORS
-from scrapping import dados
+from scraping import dados
 
 app = Flask(__name__)
 CORS(app)
