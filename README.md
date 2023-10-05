@@ -23,6 +23,6 @@
 * pandas             2.1.1
 * requests           2.31.0
 
-### São duas aplicações, uma desenvolvida com Flask. Faz Web Scraping da página da Sta, e retorna os dados por uma API.
+São duas aplicações, uma desenvolvida com Flask. Faz Web Scraping da página da Santa Casa de Misericórdia de Sobral, e retorna os dados por uma API.
 
-### A outra é feita com React.JS, consome os dados da API.
+A outra é feita com React.JS, consome os dados da API.
